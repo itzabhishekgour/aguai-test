@@ -21,6 +21,9 @@ repositories {
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
     implementation 'org.springframework.boot:spring-boot-starter-web'
+    // For LangChain4j core or Google Gemini API connectivity
+    implementation 'dev.langchain4j:langchain4j:0.36.0'
+    implementation 'dev.langchain4j:langchain4j-google-ai-gemini:0.36.0'
     compileOnly 'org.projectlombok:lombok'
     runtimeOnly 'org.postgresql:postgresql'
     annotationProcessor 'org.projectlombok:lombok'
