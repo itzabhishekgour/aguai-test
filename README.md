@@ -169,4 +169,12 @@ Developed by **Abhishek Gour**
 
 ## License
 
-Licensed under the MIT License.
+**Proprietary — All Rights Reserved.**
+
+This software is the exclusive intellectual property of **Abhishek Gour**.
+No part of this codebase may be copied, modified, distributed, or used without explicit written permission from the Author.
+
+For licensing inquiries: [mrasgour1004@gmail.com](mailto:mrasgour1004@gmail.com)
+
+Refer to [LICENSE](./LICENSE) for full terms and conditions.
+
